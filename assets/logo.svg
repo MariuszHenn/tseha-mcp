@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="24 49 185 185" fill="none">
+  <defs>
+    <linearGradient id="tsehaGradA"><stop offset="0" stop-color="#ac7ff8"/><stop offset="1" stop-color="#ac7df6"/></linearGradient>
+    <linearGradient id="tsehaGradB"><stop offset="0" stop-color="#7d58ef"/><stop offset="1" stop-color="#734de3"/></linearGradient>
+    <linearGradient id="tsehaGradC"><stop offset="0" stop-color="#996bf3"/><stop offset="1" stop-color="#8a63f1"/></linearGradient>
+    <linearGradient id="tsehaGradD"><stop offset="0" stop-color="#9866fa"/><stop offset="1" stop-color="#ae80f6"/></linearGradient>
+    <linearGradient id="tsehaGradE"><stop offset="0" stop-color="#a670f5"/><stop offset="1" stop-color="#b57ff9"/></linearGradient>
+    <linearGradient id="tsehaGradF"><stop offset="0" stop-color="#4b36b2"/><stop offset="1" stop-color="#694fd0"/></linearGradient>
+    <linearGradient xlink:href="#tsehaGradF" id="tsehaTop" x1="126.86243" y1="208.40842" x2="152.32181" y2="139.23424" gradientUnits="userSpaceOnUse"/>
+    <linearGradient xlink:href="#tsehaGradE" id="tsehaUpper" x1="67.44854" y1="108.41788" x2="122.60629" y2="77.189148" gradientUnits="userSpaceOnUse"/>
+    <linearGradient xlink:href="#tsehaGradD" id="tsehaLeft" x1="64" y1="181.86423" x2="64.578384" y2="121.2872" gradientUnits="userSpaceOnUse"/>
+    <linearGradient xlink:href="#tsehaGradC" id="tsehaRight" x1="155.64023" y1="126.89652" x2="177.86575" y2="140.78456" gradientUnits="userSpaceOnUse"/>
+    <linearGradient xlink:href="#tsehaGradB" id="tsehaFront" x1="111.79131" y1="211.67929" x2="111.79131" y2="147.96448" gradientUnits="userSpaceOnUse"/>
+    <linearGradient xlink:href="#tsehaGradA" id="tsehaCap" x1="111.79131" y1="154.20901" x2="157.31847" y2="123.79805" gradientUnits="userSpaceOnUse"/>
+  </defs>
+  <rect x="24" y="49" width="185" height="185" rx="42" fill="#ffffff"/>
+  <g>
+    <path fill="url(#tsehaLeft)" d="M 55,112.47733 72.999999,123.72498 73,187.48805 55,176.2404"/>
+    <path fill="url(#tsehaUpper)" d="m 72.999999,116.02479 60.103351,-37.556746 -18,-11.247647 L 55,104.77714"/>
+    <path fill="#ac75fb" d="m 139.26479,82.318142 -17.90256,11.186763 38.60095,24.120555 17.90257,-11.18677 z"/>
+    <path fill="url(#tsehaFront)" d="m 110.22104,210.74634 6.63684,4.05063 v -57.42202 l -6.63684,-4.14716"/>
+    <path fill="#9868f6" d="m 159.96318,117.62546 17.90257,11.05032 v -22.23709 z"/>
+    <path fill="#694fd0" d="m 177.3267,128.27087 c -0.12124,-0.0921 -4.03219,-2.51196 -8.69134,-5.37752 -4.65915,-2.86556 -8.45798,-5.25172 -8.44188,-5.30233 0.0161,-0.0506 3.96995,-2.55546 8.78628,-5.56603 l 8.75703,-5.47361 v 10.94762 c 0,6.02168 -0.043,10.94556 -0.0955,10.94334 -0.0525,-0.002 -0.19473,-0.0794 -0.31594,-0.17147 z"/>
+    <path fill="url(#tsehaRight)" d="m 157.31848,132.09236 20.54727,12.83936 v -8.29431 l -20.54727,-13.03142 z"/>
+    <path fill="url(#tsehaTop)" d="m 177.86575,144.93172 -43.19317,26.99009 v 31.7433 l -17.8147,11.13186 v -57.42202 l 40.4606,-25.28259 z"/>
+    <path fill="url(#tsehaCap)" d="m 110.22104,153.22779 6.63684,4.14716 40.4606,-25.28259 -1e-5,-8.29431 z"/>
+  </g>
+</svg>
