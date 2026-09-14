@@ -68,7 +68,6 @@ consistent with the GDPR and our [DPA](https://tseha.io/dpa).
 
 ## Acknowledgments
 
-We thank everyone who reports issues to us responsibly. Researchers who ask to be
-credited are listed here.
+We thank everyone who reports issues to us responsibly.
 
-- Md. Rabbi Hossain ([LinkedIn](https://www.linkedin.com/in/csrrabbi/)) - OAuth redirect URI validation, September 2026
+- Md. Rabbi Hossain ([LinkedIn](https://www.linkedin.com/in/csrrabbi/))
